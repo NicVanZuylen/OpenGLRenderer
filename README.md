@@ -15,6 +15,12 @@ This is my project I made whilst learning graphics programming using OpenGL. Thi
 
 ## Images
 
+Images taken with some basic primitives and lighting.
+
+<a href="https://imgur.com/7hasjSZ"><img src="https://i.imgur.com/k2RIITL.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/7hasjSZ"><img src="https://i.imgur.com/FssHbmC.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/7hasjSZ"><img src="https://i.imgur.com/AzM9MQi.png" title="source: imgur.com" /></a>
+
 The following images were taken using materials containing diffuse, normal and specular maps. Rendered with deferred PBR shaders.
 
 <a href="https://imgur.com/7hasjSZ"><img src="https://i.imgur.com/7hasjSZ.png" title="source: imgur.com" /></a>
